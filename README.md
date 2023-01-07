@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sathya307
-- 👀 I’m interested in ...Python,Machine learning
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...Python,Machine learning,Django
+- 🌱 I’m currently learning ...Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
